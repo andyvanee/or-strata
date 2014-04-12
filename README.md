@@ -1,1 +1,3 @@
-Strata - an OpenResty thingy
+# or-strata
+
+An OpenResty thingy
